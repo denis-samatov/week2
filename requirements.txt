@@ -3,4 +3,5 @@ rapidocr-onnxruntime
 opencv-python-headless
 llama-index
 llama-index-llms-openai-like
+llama-index-llms-ollama
 pandas
